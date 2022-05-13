@@ -60,7 +60,6 @@ parts:
       - libasound2
       - libgconf-2-4
       - libglib2.0-bin
-      - libgnome-keyring0
       - libgtk-3-0
       - libnotify4
       - libnspr4
